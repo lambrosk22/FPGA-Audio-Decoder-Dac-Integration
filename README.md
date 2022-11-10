@@ -1,7 +1,7 @@
 # FPGA-Audio-Decoder-Dac-Integration
 ## Description
 An audio DSD and PCM audio decoder using an FPGA open Board.
-* low pass filter at decoders exit
+* Low pass filter at decoders exit
 * Non-inverting Operational Amplifier
 ## Reaserch 
 Using an Alhambra II open FPGA board and ICEstudio Reaserching boards properties.
