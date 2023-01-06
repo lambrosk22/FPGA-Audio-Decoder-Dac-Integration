@@ -7,4 +7,4 @@ An audio DSD and PCM audio decoder using an FPGA open Board.
 Using an Alhambra II open FPGA board and ICEstudio Reaserching boards properties.
 Reaserching Academic literature, google , IEEE Xplore.
 ## Ver0.0
-In progress. Almost ready.
+In progress. 
